@@ -1,0 +1,27 @@
+Statistical operations of each dataset were performed in this dataset. This dataset includes all the stages of statistical analysis.
+
+Statistical operations were performed in the Jupyter Notebook loaded in this section. These processes are respectively;
+
+    * Descriptive Statistics,
+    
+    * Each variable,
+    
+    * The boxplot of each variable belonging to the data sets was drawn,
+    
+    * Skewness and Kurtosis,
+    
+    * Distribution of each variable belonging to the data sets was drawn,
+    
+    * Wilcoxon Test,
+    
+    * One-Sample Hypothesis Test,
+    
+    * T-Test,
+    
+    * Analysis of Variance,
+    
+    * Mann-Whitney U,
+    
+    * Standard Error,
+    
+    * Z-Score,
