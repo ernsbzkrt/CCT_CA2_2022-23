@@ -1,1 +1,1 @@
-
+In this section, missing data in each dataset has been found and presented in tabular form. Then, the average of the columns with missing data was taken, and the missing data were filled with this average and checked again. Then, before the models were made in the next section, the correlation value of each dataset was limited, and the results were visualized. Again, before the models were made in the following area, outliers were checked in this section and removed from the data.
